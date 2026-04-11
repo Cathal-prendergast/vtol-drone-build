@@ -1,0 +1,22 @@
+# 2026-04-08 to 2026-04-10
+
+## What I did
+Designed the electronics bay section of the fuselage in Onshape. 
+This component will house all electronics apart from the battery, 
+which will be mounted in a separate section.
+
+## Problems
+Had not used Onshape since 2023 so the first session was
+spent getting back up to speed. Comfortable with it again now.
+
+## Decisions 
+Separated the battery into its own chamber — it is too large to
+fit alongside the other electronics, and a separate compartment
+also allows better weight distribution and CG management.
+
+Chose a flat oval cross-section for the fuselage so all electronics
+sit neatly in the interior without wasted space.
+
+## Next
+Duplicate the current chamber and replace the platform to hold the
+battery securely in place.
