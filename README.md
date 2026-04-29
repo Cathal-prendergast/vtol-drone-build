@@ -1,7 +1,7 @@
 # vtol-drone-build
 Custom 3D-printed VTOL fixed-wing drone. Airframe designed in Custom 3D-printed VTOL fixed-wing drone. Airframe designed in Onshape, flight control via ArduPlane, flight data analysis with pymavlink and pandas.
 
-This project started simply, I wanted a drone but couldn't justify the cost of a commercial aircraft. Building one from scratch turned out to be the better option anyway: cheaper, and with far more to learn. The goal is a fully functional VTOL fixed-wing aircraft capable of autonomous waypoint flight, designed entirely by me and documented openly from the ground up.
+This project started simply; I wanted a drone but couldn't justify the cost of a commercial aircraft. Building one from scratch turned out to be the better option anyway: cheaper, and with far more to learn. The goal is a fully functional VTOL fixed-wing aircraft capable of autonomous waypoint flight, designed by me and documented openly from the ground up.
 
 
 My Project Goals:
