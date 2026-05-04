@@ -20,3 +20,24 @@ sit neatly in the interior without wasted space.
 ## Next
 Duplicate the current chamber and replace the platform to hold the
 battery securely in place.
+
+
+
+# 2026-05-04
+
+##What I did
+Redesigned the battery fuselage bay after figuring out the 
+original shape and size wouldn't accomadate a 5000mAh 4s 50C LiPo battery.
+The fuselage is now in the shape of a 80x80mm square with curved edges of a radius of 15mm.
+
+##Problems
+I will most likely be unable to place pusher propeller at the back of the drone
+now since the square nature of the fuselage will block significant airflow into the propeller.
+
+##Decisions
+I will have to relocate the forward propeller into either a tractor or a twin-prop configuration. 
+I will likely place it in the tractor configuration.
+
+##Next
+I will redesign the electronics fuselage bay into the same configuration as the battery bay.
+I will also start to design the nose cone and tail, before I decide where to place the wing.
