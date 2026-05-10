@@ -41,3 +41,25 @@ I will likely place it in the tractor configuration.
 ##Next
 I will redesign the electronics fuselage bay into the same configuration as the battery bay.
 I will also start to design the nose cone and tail, before I decide where to place the wing.
+
+
+# 2026-05-08 to 2026-05-10
+
+##What I did
+Decreased the width of the fuselage walls to 1.5mm due to the original fuselage modules being overweight.
+Finished designing the nose cone and almost finished the tail module which will house the motor for the pusher propeller.
+
+##Decisions
+I decided that the pusher propeller configuration could work with 11" propellers.
+The tail section angles inwards towards the end of the tail to allow more airflow into the propeller.
+
+##Next
+I will finish off the tail section to fit the propeller motor and the H-tail.
+I will start to design the fixed wing and assign it to the most optimal point based on the cg.
+
+
+
+
+
+
+
