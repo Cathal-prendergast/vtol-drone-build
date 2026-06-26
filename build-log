@@ -77,5 +77,18 @@ I will start to design the fixed wing and assign it to the most optimal point ba
 During this time period I continued to design the frame of the build along with planning and purchasing all the parts that will be included in the build.
 
 
+#2026-06-26
+
+## What I did
+I placed the connector for the wing at the centre of gravity of the fuselage of the aircraft. 
+I calculated the optimal area of the wing to be 283,000mm^2 using the lift equation on nasa.gov and rearanging it to A = (2mg)/CrV^2 where L = W = mg in horizontal flight.
+
+##Decisions
+I chose the chord length of the wing to be 235.83mm to ensure it is able to print on the 220x220x250mm bed of the Sovol SV06 Ace.
+The length of each wing will be 600mm, which will create an overall wingspan of 1.2 metres.
+I decided to have the micro-servos controlling the elavators to instead rotate the entire horizontal stabilisers. I did this because the elavators on the horizontal stabilisers would be to small for the micro-servos to move.
+
+##Next
+I will continue to design each wing segment to connect up to eachother and allow a 1 metre 12mm carbon fibre tube inside it to be used as a wing spar.
 
 
