@@ -1,0 +1,89 @@
+# System Architecture
+
+## Overview
+
+The aircraft is made up of five subsystems:
+
+- Airframe
+- Propulsion System
+- Flight Control System
+- Power System
+- Communication System
+
+Each subsystem performs a specific function and works together to ensure a stable flight.
+
+##Diagram
+
+               Pilot
+                 |
+          ELRS Receiver
+                 │
+                 │
+GPS -------------|
+Compass ---------|
+Airspeed Sensor _|
+                 |
+        Matek F405-VTOL
+       Flight Controller
+          │          │
+          │          │
+          |          |
+        5 ESCs    4 Servos
+          │          │
+          |          |
+       5 Motors  Ailerons + Elevators
+
+---
+
+## Airframe
+
+The airframe provides the structure for the aircraft and contains all onboard systems. It consists of a 3D printed fuselage, fixed wing, tail with the full horizontal stabiliser acting as an elavator and carbon fibre wing spar through the wing.
+
+---
+
+## Propulsion System
+
+The propulsion system consists of:
+
+- Four VTOL motors for vertical take-off and landing
+- One motor for forward flight
+- Five electronic speed controllers (ESCs)
+
+Each ESC independently controls one motor.
+
+---
+
+## Flight Control System
+
+The Matek F405-VTOL flight controller acts as the computer of the aircraft.
+
+It receives data from onboard sensors and pilot commands before calculating the required motor speeds.
+
+---
+
+## Navigation System
+
+Navigation is provided by:
+
+- GPS and compass module
+- Airspeed sensor
+
+These sensors allow the aircraft to estimate its position, heading and airspeed for autonomous flight.
+
+---
+
+## Communication System
+
+Pilot commands are transmitted using an ELRS radio.
+
+The RadioMaster Pocket communicates with the ELRS receiver, which sends commands to the flight controller.
+
+---
+
+## Power System
+
+Power is supplied by a single 4S 5000 mAh LiPo battery.
+
+Battery power is distributed to all five ESCs through a power distribution harness.
+
+The flight controller and onboard electronics are powered from the 5 V BEC of one ESC.
