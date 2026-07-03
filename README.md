@@ -36,8 +36,6 @@ CAD: Onshape
 
 Flight Control: ArduPlane, Mission Planner, QGroundControl
 
-Analysis: Python, pymavlink, pandas, matplotlib
-
 
 
 Dated build entries are in the /build-log folder.
