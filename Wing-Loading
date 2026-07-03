@@ -1,0 +1,46 @@
+# Wing-Loading
+
+## What is meant by Wing Loading?
+
+Wing loading is the total weight of an aircraft divided by the area of its wings. 
+It is a critical measurement used to determine an aircraft's stall speed, handling, and maneuverability.
+
+Generally:
+- Lower wing loading improves low-speed flight and reduces stall speed.
+- Higher wing loading increases cruising performance but needs higher flying speeds.
+---
+
+## Wing Loading Formula
+
+Wing Loading = Weight / Wing area
+
+---
+
+## Design Values
+
+- Estimated Mass = 2.3 kg
+- Wing Area = 0.283 m^2
+
+---
+
+## Calculation
+
+Wing Loading = 2.3 / 0.283
+
+Wing Loading ≈ 8.13 kg/m^2
+
+---
+
+## Design Considerations
+
+A wing loading of 8.13 kg/m^2 is low for a small UAV.
+
+This should provide:
+
+- A lower stall speed
+- Improved low-speed handling
+- Better stability during VTOL transition
+- Reduced landing speed
+
+A lower wing loading was chosen to improve the aircraft's performance during take-off, landing, and transition between hover and forward flight.
+
