@@ -1,0 +1,84 @@
+#Lift
+
+## What is Lift?
+
+Lift is an aerodynamic force that acts perpendicular to the direction of airflow. It is generated when air flows over and under an aircraft's wings. For an aircraft to remain in level flight, lift must be equal to the aircraft's weight.
+
+The amount of lift produced depends on the aircraft's speed, wing area, air density, and the wing's lift coefficient.
+
+---
+## Lift Equation
+
+L = ½ρV^2CLA
+
+In level flight:
+
+L = W
+
+Since weight is given by: W = mg
+
+then:
+
+L = mg
+
+Where:
+
+- L = Lift (N) / Mass x Acceleration due to Gravity
+- ρ = Air density (kg/m³)
+- V = Airspeed (m/s)
+- CL = Lift coefficient
+- A = Wing area (m²)
+
+---
+
+## Design Values
+
+-Wingspan = 1.20 m
+-Wing chord = 0.23583 m
+-Wing area = 0.283 m^2
+-Estimated mass ~ 2.3 kg
+-Stall speed = 10 m/s
+-Lift coefficient (CL) = 1.3 
+-Airfoil = NACA 2412
+
+---
+
+##Calculation
+
+m = 2.3 kg
+ρ = 1.225 kg/m^3
+V = 10 m/s
+CL = 1.3
+
+L = mg
+
+L = 2.3 × 9.81
+
+L = 22.56 N
+
+Rearrange the lift equation:
+
+A = 2L / (ρV^2CL)
+
+A = (2 × 22.56) / (1.225 × 10^2 × 1.3)
+
+A ≈ 0.283 m^2
+---
+
+## Considerations
+
+The wing dimensions were chosen so that the drone can generate lift at low airspeeds.
+
+A low stall speed improves safety during take-off, landing, and the transition between vertical and forward flight.
+
+As airspeed increases, the amount of lift generated also increases. During forward flight, the wings gradually support more of the aircraft's weight until the VTOL motors are no longer needed.
+
+---
+
+## Application to this Project
+
+The lift equation was used to estimate the required wing area for a target stall speed of 10 m/s.
+
+Using the chosen design values gave an approximate wing area of 0.283 m^2.
+
+The drone is designed to produce lift for stable forward flight while maintaining low-speed handling during VTOL transitions.
