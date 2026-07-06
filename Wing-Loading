@@ -21,6 +21,7 @@ Wing Loading = Weight / Wing area
 - Estimated Mass = 2.3 kg
 - Wing Area = 0.283 m^2
 
+- Revised Estimated Mass (6 July) = 3.3 kg
 ---
 
 ## Calculation
@@ -29,11 +30,15 @@ Wing Loading = 2.3 / 0.283
 
 Wing Loading ≈ 8.13 kg/m^2
 
+Revised Wing Loading (6 July) = 3.3 / 0.283
+
+Revised Wing Loading (6 July) ≈ 11.66 kg/m^2
+
 ---
 
 ## Design Considerations
 
-A wing loading of 8.13 kg/m^2 is low for a small UAV.
+A wing loading of 11.66 kg/m^2 is low for a small UAV.
 
 This should provide:
 
