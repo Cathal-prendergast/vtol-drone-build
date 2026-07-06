@@ -92,3 +92,16 @@ I decided to have the micro-servos controlling the elavators to instead rotate t
 I will continue to design each wing segment to connect up to eachother and allow a 1 metre 12mm carbon fibre tube inside it to be used as a wing spar.
 
 
+#2026-07-06
+
+##What I did
+Designed the wing of the UAV with a main goal of decreasing weight while maintaining structural stability.
+The wing is made up of six segments with a width of 200mm and a length/chord of 235.83mm. Three segments on each side.
+Their is a carbon fibre tube that will act as a spar to take the force of the wing bending with an outer diameter(OD) of 12mm and an internal diameter(ID) of 10mm.
+
+##Decisions
+Cut material from the connecting surface of the fuselage segments and decided to assign the wing segments a wall width of 1mm in order to save weight.
+
+##Next
+Design the ailerons on the edge of both sides of the wings and decide where to position the carbon fibre arms that hold the VTOL motors.
+
