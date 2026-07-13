@@ -82,8 +82,8 @@ The RadioMaster Pocket communicates with the ELRS receiver, which sends commands
 
 ## Power System
 
-Power is supplied by a single 4S 5000 mAh LiPo battery.
+Power is supplied by a 4S 5000 mAh LiPo battery connected directly to the Matek F405-VTOL power distribution board.
 
-Battery power is distributed to all five ESCs through a power distribution harness.
+The Matek F405-VTOL's power distribution board distributes power to each of the five ESCs while supplying a regulated power of 5V to the flight controller and electronics.
 
-The flight controller and onboard electronics are powered from the 5 V BEC of one ESC.
+This design removes the need for an external power distribution board.
