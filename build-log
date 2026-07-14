@@ -92,3 +92,15 @@ I decided to have the micro-servos controlling the elavators to instead rotate t
 I will continue to design each wing segment to connect up to eachother and allow a 1 metre 12mm carbon fibre tube inside it to be used as a wing spar.
 
 
+#2026-07-01 to 2026-07-14
+##What I did
+I had to wait to start 3D printing the fuselage because my Sovol SV06 Ace's power supply unit malfunctioned. As a result, I had to wait until the 14th of july before i could start printing again.
+In this time I finished designing the ailerons on the wings and have a surface area of []. I also soldered the GPS and Compass module(HGLRC M100) and the Reciever(Radiomaster RP4TD) to the Flight Controller.
+
+##Decisions
+I decided to solder the GPS and Compass module and the Reciever directly to the Flight Controller rather than using the pins that accompany the FC. 
+I did this mainly due to reliability: a soldered joint is less likely to work loose from vibration and disconnect mid-flight.
+
+##Next
+I will mount the pusher motor onto the tail modue once it finishes printing and connect its dedicated ESC to it.
+I will also order two 11x5.5 inch propellers but in the CCW configuration. The VTOL propellers are supposed to have 2 CW propellers and 2 CCW propellers rotating in the opposite direction to avoid rotating, but I mistakingly purchased all CWs
