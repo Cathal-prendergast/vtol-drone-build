@@ -104,3 +104,29 @@ I did this mainly due to reliability: a soldered joint is less likely to work lo
 ##Next
 I will mount the pusher motor onto the tail modue once it finishes printing and connect its dedicated ESC to it.
 I will also order two 11x5.5 inch propellers but in the CCW configuration. The VTOL propellers are supposed to have 2 CW propellers and 2 CCW propellers rotating in the opposite direction to avoid rotating, but I mistakingly purchased all CWs
+
+
+#2026-07-15
+##What I did
+There was an error in the 3D printer overnight which stopped the print of the tail at exactly 60mm. This was likely an error in the G-Code.
+I printed the remaining part of the print and super-glued it on top. I then came accross an error I made in the M3 holes that would connect the pusher motor to the fuselage; I originally designed it to accommodate the motor on the inside of the fuselage with the motor shaft sticking out the back,
+but after analysing the motor dimensions I realised that the motor would have to be mounted on the outside of the fuselage, and as a result pushing the CG back. To fix this, I shortened the length of the tail module to the point where it can accommodate the ESC and the two Micro-Servos. 
+The Motor will still be mounted on the outside but this brings the Center of Gravity back to its original position and reduces weight.
+I rearranged the layout of the wing segments to allow the 12mm carbon fibre spar to fit through it uninterrupted after I realised it would get in the way of the 136 x 44 x 43.5mm battery. 
+I created 16.1mm diameter holes in both the front and rear fuselage modules that will allow the 16mm carbon fibre tube of 1mm thickness to go through the fuselage and support the VTOL motors. 
+I chose the location for these based off the Center of Gravity(180mm in both directions). Each 16.1mm hole accompanies a 14mm hole that will allow wire to pass through to the motors.
+I started printing the front module of the fuselage that will hold the Flight Controller, GPS + Compass module, Reciever, and airspeed sensor with PETG but had to reprint multiple times becaus eoof print failures with the filament.
+The module is printing currently after I adjusted the bed temperature, nozzle temperature, and speed of the printer and is printing well at the moment.
+If this print fails again I will have to repring again and change the material to PLA.
+
+#Decisions
+I decided to shorten the tail module to bring the CG forward after I identified a mistake in the design.
+Chose the VTOL motors position based off the CG of the aircraft.
+I am printing the first module of the fuselage with PETG because of the impact resistance, fatigue resistance, and outdoor reliabilty.
+Fatigue resistance is crucial for this module as it contains the Carbon Fibre tube that will accompany vibrations from the motors.
+
+#Next
+Finish printing the forst module of the fuselage
+Print the second module of the fuselage and so on.
+Seperate the one metre 12mm carbon fibre tube into two equal tubes of length 500mm for the VTOL motor arms.
+Connect the Flight Controller and electronics assigned to the front module into it.
