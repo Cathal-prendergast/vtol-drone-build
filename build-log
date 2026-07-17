@@ -119,14 +119,34 @@ I started printing the front module of the fuselage that will hold the Flight Co
 The module is printing currently after I adjusted the bed temperature, nozzle temperature, and speed of the printer and is printing well at the moment.
 If this print fails again I will have to repring again and change the material to PLA.
 
-#Decisions
+##Decisions
 I decided to shorten the tail module to bring the CG forward after I identified a mistake in the design.
 Chose the VTOL motors position based off the CG of the aircraft.
 I am printing the first module of the fuselage with PETG because of the impact resistance, fatigue resistance, and outdoor reliabilty.
 Fatigue resistance is crucial for this module as it contains the Carbon Fibre tube that will accompany vibrations from the motors.
 
-#Next
-Finish printing the forst module of the fuselage
+##Next
+Finish printing the first module of the fuselage
 Print the second module of the fuselage and so on.
 Seperate the one metre 12mm carbon fibre tube into two equal tubes of length 500mm for the VTOL motor arms.
 Connect the Flight Controller and electronics assigned to the front module into it.
+
+
+#2026-07-16
+##What I did
+The 3D printer fully clogged while printing the first module of the fuselage and I had to turn off the printer and end the print prematurely. The print ended as it was nearly done just before the connectors were printed.
+To overcome this I will superglue the Nose Cone to the front of the fuselage instead of connecting it with nuts and bolts. It will be permenantly fixed to the first module of the fuselage but saves weight.
+The Nose cone weighs roughly 30 grams and only contains the pitot tube so the First module will not be under any extra structural strain.
+Reprinted the Nose Cone after I made modifications to the design: a 3.5mm hole for the pitot ube in the center, a thinner wall to save weight, and a large part of where the connector was as it isnt needed anymore.
+I drilled a 4mm hole after the 3.5mm hole was to tight for the pitot tube.
+Reprinted the Tail module after I made modifications to the design: shorter, a 4mm wall mount to prevent cracking due to the 1.5mm wall's fragility.
+
+##Decisions
+Decided to superglue the Nose Cone to the first module instead of reprinting the module again.
+This would have taken an extra 11 hours.
+
+##Next
+The second module of the fuselage is currently printing.
+I will continue to print the rest of the parts.
+Once the second module finishes printing I will connect it up to the first module and install their dedicated electronics.
+Will file the inside of the 16.1mm and 12.1mm hole to allow the 16mm and 12mm carbon fibre tube to pass through.
