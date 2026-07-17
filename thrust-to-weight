@@ -1,0 +1,48 @@
+# Thrust-to-Weight Ratio
+
+## What is Thrust-to-Weight Ratio?
+
+The thrust-to-weight ratio compares the total thrust produced by the motors to the weight of the aircraft.
+
+It is an important measure because it determines whether the aircraft can take off, hover, climb, and manoeuvre effectively.
+
+---
+
+## Thrust-to-Weight Ratio Formula
+
+Thrust-to-Weight Ratio = Total Thrust / Aircraft Weight
+
+A thrust-to-weight ratio greater than 1 means the aircraft can climb vertically.
+
+---
+
+## Design Values
+
+- Estimated aircraft mass: 3.3 kg
+- Aircraft weight:
+
+  Weight = mg
+
+  Weight = 3.3 × 9.81
+
+  Weight = 32.37 N
+
+---
+
+## VTOL Requirement
+
+During vertical take-off, the combined thrust of the four lift motors must exceed the aircraft's weight.
+
+During hover, the combined thrust of the four lift motors must equal the aircraft's weight.
+
+The aircraft should produce significantly more thrust than its weight, in order to keep an adequate saftery margin and improve control.
+
+---
+
+## Application
+
+The four SunnySky X2814 900KV motors were chosen to provide sufficient thrust for vertical take-off and hover.
+
+The forward propulsion motor is used only during forward flight and isn't included in the hover thrust calculation.
+
+The thrust-to-weight ratio will be calculated using manufacturer data and verified through thrust testing after assembly.
