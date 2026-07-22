@@ -1,4 +1,4 @@
-#Lift
+# Lift
 
 ## What is Lift?
 
@@ -7,6 +7,7 @@ Lift is an aerodynamic force that acts perpendicular to the direction of airflow
 The amount of lift produced depends on the aircraft's speed, wing area, air density, and the wing's lift coefficient.
 
 ---
+
 ## Lift Equation
 
 L = ½ρV^2CLA
@@ -43,9 +44,10 @@ Where:
 
 -Revised Estimated mass(6 July) ~ 3.3 kg
 -Revised Stall speed ≈ 12 m/s
+
 ---
 
-##Calculation
+## Calculation
 
 m = 2.3 kg
 ρ = 1.225 kg/m^3
@@ -66,8 +68,7 @@ A = (2 × 22.56) / (1.225 × 10^2 × 1.3)
 
 A ≈ 0.283 m^2
 
-Revised Calculation(with the same wing area. Calculating Stall speed) (6 July):
-
+**Revised Calculation (with the same wing area. Calculating Stall speed) (6 July):**
 m = 3.3 kg
 ρ = 1.225 kg/m^3
 V = 10 m/s
@@ -88,6 +89,7 @@ V^2 ≈ 143.65
 V ≈ (143.65)^1/2
 
 V ≈ 12 m/s 
+
 ---
 
 ## Considerations
