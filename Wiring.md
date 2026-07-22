@@ -1,4 +1,4 @@
-# Wiring
+**# Wiring**
 
 ## Overview
 
@@ -40,8 +40,23 @@ The GPS, receiver and airspeed sensor communicate directly with the flight contr
 
 ---
 
+**## Design Considerations**
+
+The integrated power distribution board reduces wiring complexity by distributing battery power directly to all ESCs while simultaneously powering the flight controller.
+
+Keeping the flight controller near the centre of the aircraft also minimises wire lengths and improves weight distribution.
+
+---
+
+## Future Work
+
+The wiring layout will be updated during assembly to reflect the final cable routing and connector placement.
+
+---
+
 ## Wiring Diagram
 
+```
        4S LiPo Battery       GPS
               |               |
               -------|---------          
@@ -54,18 +69,5 @@ Receiver ----------- FC ----------- Airspeed Sensor
         |            |            |           |            |
       ESC1         ESC2         ESC3        ESC4          ESC5
         │            │            │           |            |
-      Motor1       Motor2       Motor3      Motor4     Cruise Motor
+      Motor1       Motor2       Motor3      Motor4     Cruise Motor 
 
----
-
-## Design Considerations
-
-The integrated power distribution board reduces wiring complexity by distributing battery power directly to all ESCs while simultaneously powering the flight controller.
-
-Keeping the flight controller near the centre of the aircraft also minimises wire lengths and improves weight distribution.
-
----
-
-## Future Work
-
-The wiring layout will be updated during assembly to reflect the final cable routing and connector placement.
