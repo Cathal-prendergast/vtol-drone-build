@@ -38,7 +38,7 @@ The final CG is verified by physically balancing the aircraft during assembly.
 
 ---
 
-Correct CG placement is critical for:
+**Correct CG placement is critical for:**
 
 - Stable forward flight
 - Smooth VTOL-to-forward transition
