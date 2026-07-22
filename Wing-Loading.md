@@ -8,6 +8,7 @@ It is a critical measurement used to determine an aircraft's stall speed, handli
 Generally:
 - Lower wing loading improves low-speed flight and reduces stall speed.
 - Higher wing loading increases cruising performance but needs higher flying speeds.
+
 ---
 
 ## Wing Loading Formula
