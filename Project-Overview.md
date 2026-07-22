@@ -1,6 +1,6 @@
 # Project Overview
 
-**##Project Summary**
+## Project Summary
 
 This project aims to design and build a fully functional VTOL fixed-wing drone from scratch. The drone combines the conventional efficiency of a fixed-wing airplane with the flexibility of a multi-rotor flight.
 
@@ -8,7 +8,7 @@ The goal is to design the aircraft, manufacture the airframe using 3D printing, 
 
 ---
 
-**##Objectives**
+## Objectives
 
 **Primary objectives:**
 
@@ -27,7 +27,7 @@ The goal is to design the aircraft, manufacture the airframe using 3D printing, 
 
 ---
 
-**##Design Summary**
+## Design Summary
 
 The aircraft is designed around the following:
 - Wingspan: 1200mm
@@ -40,7 +40,7 @@ These parameters directly determine wing loading, thrust requirements, and fligh
 
 ---
 
-**## Derived Design Context**
+## Derived Design Context
 
 The approximate wing area is:
 
