@@ -1,14 +1,16 @@
 # Project Overview
 
-##Project Summary
+## Project Summary
 
 This project aims to design and build a fully functional VTOL fixed-wing drone from scratch. The drone combines the conventional efficiency of a fixed-wing airplane with the flexibility of a multi-rotor flight.
 
 The goal is to design the aircraft, manufacture the airframe using 3D printing, install all avionics and propulsion systems, configure ArduPilot, and eventually achieve autonomous navigation.
 
-##Objectives
+---
 
-Primary objectives:
+## Objectives
+
+**Primary objectives:**
 
 - Design a stable VTOL aircraft
 - Manufacture the complete airframe
@@ -19,11 +21,13 @@ Primary objectives:
 - Return safely to VTOL for landing
 - Complete autonomous waypoint missions
 
-Secondary objectives:
+**Secondary objectives:**
 - Minimise weight
 - Maximise endurance
 
-##Design Summary
+---
+
+## Design Summary
 
 The aircraft is designed around the following:
 - Wingspan: 1200mm
@@ -33,6 +37,8 @@ The aircraft is designed around the following:
 - Lift coefficient: 1.3
 
 These parameters directly determine wing loading, thrust requirements, and flight stability.
+
+---
 
 ## Derived Design Context
 
