@@ -12,8 +12,8 @@ The aircraft is made up of five subsystems:
 
 Each subsystem performs a specific function and works together to ensure a stable flight.
 
-##Diagram
-
+## Diagram
+```
                Pilot
                  |
           ELRS Receiver
@@ -32,7 +32,7 @@ Airspeed Sensor _|
           │          │
           |          |
        5 Motors  Ailerons + Elevators
-
+```
 ---
 
 ## Airframe
