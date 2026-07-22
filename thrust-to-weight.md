@@ -1,4 +1,4 @@
-# Thrust-to-Weight Ratio
+# Thrust-to-Weight Ratio 
 
 ## What is Thrust-to-Weight Ratio?
 
