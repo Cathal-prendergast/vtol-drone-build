@@ -157,3 +157,18 @@ The second module of the fuselage is currently printing.
 I will continue to print the rest of the parts.
 Once the second module finishes printing I will connect it up to the first module and install their dedicated electronics.
 Will file the inside of the 16.1mm and 12.1mm hole to allow the 16mm and 12mm carbon fibre tube to pass through.
+
+---
+
+# 2026-07-17 to 2026-08-10
+## What I did
+I returned the Sovol SV06 ACE back to Sovol because it was faulty beyond use and had to replace it, so I bought a Bambu Labs A1 3D printer.
+I continued printing the parts of the fuselage and wings and is of a much better print quality than the previous printer's, which will improve the structural strength.
+I filed the 16mm holes but not the 12mm hole because it was big enough already for the tube to pass through.
+I mounted the pusher and the four VTOL motors onto the boom arms and designed a clip attachment that firmly holds the motors onto the boom arms.
+I soldered the battery connection wires onto the flight controllers integrated power distribution board, after much failure. I also soldered the front right motor's ESC onto the FC.
+
+## Next
+Print the last two segments of the wing, the ailerons, and the horizontal stabilisers.
+Solder the rest of the ESCs  onto the flight controllers integrated power distribution board.
+Start to configure the aircrafts paramaters and electronics on ardupilot.
