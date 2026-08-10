@@ -4,7 +4,7 @@
 ## System Requirements Driving Component Selection
 
 The system is designed around:
-- ~2.3 kg weight
+- ~3.3 kg weight
 - VTOL + fixed-wing transition
 - 10 m/s stall speed target
 - 1.2 m wingspan airframe
