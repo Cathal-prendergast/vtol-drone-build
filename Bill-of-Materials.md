@@ -1,4 +1,4 @@
-#Bill of Materials
+# Bill of Materials
 
 
 ## System Requirements Driving Component Selection
@@ -12,8 +12,8 @@ The system is designed around:
 ---
 
 
-##Airframe
-
+## Airframe
+```
 |       Component     |Quantity|           Purpose         |
 |----------------------------------------------------------|
 | 3D printed fuselage |    1   |  Main aircraft structure  |
@@ -22,10 +22,11 @@ The system is designed around:
 | Vertical stabiliser |    1   |    Directional stability  |
 |Horizontal stabiliser|    1   |      Pitch stability      |*
 |     Landing gear    |    1   |Supports aircraft on ground|
-
+```
 *The horizontal stabilisers rotate and act like elavators as a whole.
 
-##Propulsion
+## Propulsion
+```
 |                  Component                |Quantity|           Purpose         |
 |--------------------------------------------------------------------------------|
 |    SunnySky X2814 Brushless Motor 900KV   |    4   |       Vertical lift       |
@@ -33,8 +34,9 @@ The system is designed around:
 |HobbyWing Skywalker 60A V2 UBEC 3-6S (ESCs)|    5   |    Motor speed control    |
 |           11x5.5 Inch Propellers          |    4   | Generates vertical thrust |
 |             9x6 Inch Propeller            |    1   |Generates horizontal thrust|
-
-##Flight Control & Electronics
+```
+## Flight Control & Electronics
+```
 |                  Component               |Quantity|                    Purpose                   |
 |--------------------------------------------------------------------------------------------------|
 |    Matek F405-VTOL (Flight Controller)   |    1   |       Flight Control and Stabilisation       |
@@ -43,11 +45,13 @@ The system is designed around:
 | RadioMaster Pocket Radio Controller (M2) |    1   |Transmits pilot control inputs to the aircraft|
 |Turnigy Rapid 4s 5000MAH 100C LIPO battery|    1   |                 Power source                 |
 |              EMAX ES08MA II              |    4   |        Operates ailerons and elavators       |
-
-##Miscellaneous
+```
+## Miscellaneous
+```
 |   Component  |    Quantity   |         Purpose        |
 |-------------------------------------------------------|
 |   M3 screws  |Required Amount|To assemble the airframe|
 |   Lock Nuts  |Required Amount|      Secure screws     |
 |XT90 Connector|       1       |   Battery connection   |
 |     Wire     |Required amount| Electrical connections |
+```
