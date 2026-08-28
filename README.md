@@ -9,8 +9,8 @@ Configure and tune ArduPlane for stable flight and VTOL transition.
 Achieve autonomous waypoint flight.
 
 Current Status:
-Phase 1: Airframe design in Onshape.
-Phase 2: 3D printing components.
+Phase 2: Finishing the assembly.
+Phase 3: Configuring the aircraft.
 
 Build Phases:
 
