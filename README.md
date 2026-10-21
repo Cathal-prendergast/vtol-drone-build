@@ -9,8 +9,8 @@ Configure and tune ArduPlane for stable flight and VTOL transition.
 Achieve autonomous waypoint flight.
 
 Current Status:
-Phase 2: Finishing the assembly.
 Phase 3: Configuring the aircraft.
+Phase 4: Flight Testing
 
 Build Phases:
 
