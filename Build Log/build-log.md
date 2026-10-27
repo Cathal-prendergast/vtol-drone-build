@@ -172,3 +172,53 @@ I soldered the battery connection wires onto the flight controllers integrated p
 Print the last two segments of the wing, the ailerons, and the horizontal stabilisers.
 Solder the rest of the ESCs  onto the flight controllers integrated power distribution board.
 Start to configure the aircrafts paramaters and electronics on ardupilot.
+
+---
+
+# 2026-08-11 to 2026-10-10
+## What I did
+Printed the last wing segments, the ailerons and the horizontal stabilisers, and fitted the aileron servos.
+Soldered the remaining ESCs and configured ArduPlane in QuadPlane mode.
+
+## Problems
+Solder kept failing to bond to the flight controller's power pads. 
+
+## Decisions
+Moved four of the five ESCs (three VTOL and the pusher) off the flight controller's pads and spliced them onto the battery leads instead.
+Set battery monitoring to voltage only, since current sensing isn't needed for hover or transition.
+Printed the airframe in PLA instead of PETG. PETG had poor layer adhesion on my printer, PLA printed cleanly and is stiffer, and using one material avoids mismatched properties at the joints.
+
+## Next
+First hover test.
+
+---
+
+# 2026-10-11 – Hover attempt 1
+
+[Video](hover-test-1-2026-10-11.mp4)
+
+## What happened
+First hover attempt, with the wings on. Over about a minute I throttled up four times. Each time the aircraft tipped up onto the same side instead of lifting off evenly. On the last attempt the motors surged, it rolled over and crashed.
+
+## Damage
+The fuselage snapped into 3 parts, some wires were torn off, and one VTOL motor clamp broke.
+
+## Problems
+There was no SD card in the flight controller, so no flight log was recorded. The only record is the video.
+Because it tipped the same way every time, I suspect one side was producing less thrust: wrong motor order or direction, a prop on the wrong motor, or uneven ESC response. I haven't confirmed this yet.
+
+## Next
+Repair the airframe, fit an SD card, and run a motor test with the props off before trying again.
+
+---
+
+# 2026-10-12 to 2026-10-27
+## What I did
+Printed clamps to fit around the broken sections of the fuselage. I fitted it over the break and melted holes through the clamp and the fuselage with the soldering iron, so the melted PLA bonds the two parts together.
+Rewired the wires that came off in the crash, reprinted the broken VTOL motor clamp, and resoldered the remaining ESC wires onto the battery leads.
+
+## Decisions
+Took the wings off for the next hover attempt.
+
+## Next
+Fit an SD card, run a motor test with the props off, and make the second hover attempt with the wings off.
