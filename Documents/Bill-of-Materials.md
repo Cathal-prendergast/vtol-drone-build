@@ -21,7 +21,6 @@ The system is designed around:
 |  Carbon fibre spar  |    1   |    Reinforces the wings   |
 | Vertical stabiliser |    1   |    Directional stability  |
 |Horizontal stabiliser|    1   |      Pitch stability      |*
-|     Landing gear    |    1   |Supports aircraft on ground|
 ```
 *The horizontal stabilisers rotate and act like elavators as a whole.
 
