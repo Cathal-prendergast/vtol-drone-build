@@ -32,7 +32,7 @@ The goal is to design the aircraft, manufacture the airframe using 3D printing, 
 The aircraft is designed around the following:
 - Wingspan: 1200mm
 - Wing chord: 0.23583 m
-- Estimated weight: ~2.3kg
+- Estimated weight: ~3.3kg
 - Stall speed: 10m/s
 - Lift coefficient: 1.3
 
