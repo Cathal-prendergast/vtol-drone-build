@@ -214,7 +214,7 @@ Repair the airframe, fit an SD card, and run a motor test with the props off bef
 
 # 2026-10-12 to 2026-10-27
 ## What I did
-Printed clamps to fit around the broken sections of the fuselage. I fitted it over the break and melted holes through the clamp and the fuselage with the soldering iron, so the melted PLA bonds the two parts together.
+Printed clamps to fit around the broken sections of the fuselage. I fitted it over the break and melted holes through the clamp and the fuselage with the soldering iron, so the melted PLA bonds the three parts together.
 Rewired the wires that came off in the crash, reprinted the broken VTOL motor clamp, and resoldered the remaining ESC wires onto the battery leads.
 
 ## Decisions
