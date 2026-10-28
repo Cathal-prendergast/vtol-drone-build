@@ -22,7 +22,7 @@ First hover attempt (11 Oct 2026) failed: the aircraft tipped repeatedly on take
 
 **Flight Tests:**
 
-- 11 Oct 2026 – Hover attempt 1 (failed) – [Video](hover-test-1-2026-10-11.mp4) — (Need to view raw in order to watch video), [build log entry](Build%20Log/build-log.md)
+- 11 Oct 2026 – Hover attempt 1 (failed) – [![Hover attempt 1 Video](https://img.youtube.com/vi/Yp2SQ7yFBkw/0.jpg)](https://youtu.be/Yp2SQ7yFBkw), [build log entry](Build%20Log/build-log.md)
 
 **Documentation:**
 
