@@ -8,6 +8,7 @@
 - Achieve autonomous waypoint flight.
 
 **Current Status:** Phase 4 – First Flight Test
+Hover achieved on the second attempt (29 Oct 2026), with the wings off. , refit the wings and hover with them on. Details in the [build log](Build%20Log/build-log.md).
 
 First hover attempt (11 Oct 2026) failed: the aircraft was unstable on take-off, the motors surged and it flipped, breaking part of the airframe. There was no SD card in the flight controller, so no log was recorded. The airframe has been repaired; the next hover attempt will be made with the wings removed. Details in the [build log](Build%20Log/build-log.md).
 
@@ -22,7 +23,8 @@ First hover attempt (11 Oct 2026) failed: the aircraft was unstable on take-off,
 
 **Flight Tests:**
 
-- 11 Oct 2026 – Hover attempt 1 (failed) – [![Hover attempt 1 Video](https://img.youtube.com/vi/Yp2SQ7yFBkw/0.jpg)](https://youtu.be/Yp2SQ7yFBkw), [build log entry](Build%20Log/build-log.md)
+- 29 Oct 2026 – Hover attempt 2 (Successful) – [![Hover attempt 2 Video](https://img.youtube.com/vi/KN1wUZc8THk/0.jpg)](https://youtu.be/KN1wUZc8THk), [build log entry](Build%20Log/build-log.md)
+- 11 Oct 2026 - Hover attempt 1 (Failed) - [Video](Hover-Attempt-1)
 
 **Documentation:**
 
