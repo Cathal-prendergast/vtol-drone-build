@@ -195,7 +195,7 @@ First hover test.
 
 # 2026-10-11 – Hover attempt 1
 
-[Video](../Hover-Attempt-one)
+*Hover Video can be found in the Media file*
 
 ## What happened
 First hover attempt, with the wings on. Over about a minute I throttled up four times. Each time the aircraft tipped up onto the same side instead of lifting off evenly. On the last attempt the motors surged, it rolled over and crashed.
