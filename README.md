@@ -10,7 +10,7 @@
 **Current Status:** Phase 4 – First Flight Test
 Hover achieved on the second attempt (29 Oct 2026), with the wings off. Refit the wings and hover with them on. Details in the [build log](Build%20Log/build-log.md).
 
-First hover attempt (11 Oct 2026) failed: the aircraft was unstable on take-off, the motors surged and it flipped, breaking part of the airframe. There was no SD card in the flight controller, so no log was recorded. The airframe has been repaired; the next hover attempt will be made with the wings removed. Details in the [build log](Build%20Log/build-log.md).
+First hover attempt (11 Oct 2026) failed: the aircraft was unstable on take-off, the motors surged and it flipped, breaking part of the airframe. There was no SD card in the flight controller, so no log was recorded. Details in the [build log](Build%20Log/build-log.md).
 
 **Build Phases:**
 
