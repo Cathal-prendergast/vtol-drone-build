@@ -195,7 +195,7 @@ First hover test.
 
 # 2026-10-11 – Hover attempt 1
 
-[Video](../hover-test-1-2026-10-11.mp4)
+[Video](../Hover-Attempt-one)
 
 ## What happened
 First hover attempt, with the wings on. Over about a minute I throttled up four times. Each time the aircraft tipped up onto the same side instead of lifting off evenly. On the last attempt the motors surged, it rolled over and crashed.
@@ -222,3 +222,19 @@ Took the wings off for the next hover attempt.
 
 ## Next
 Fit an SD card, run a motor test with the props off, and make the second hover attempt with the wings off.
+
+---
+
+# 2026-10-29 – Hover attempt 2
+
+[Video](https://youtu.be/KN1wUZc8THk)
+
+## What I did
+Fitted an SD card and ran a motor test with the props off. Motor 2 was spinning the wrong way, so I reversed it. I also found and re soldered a bad joint that came loose in the first crash.
+
+## What happened
+Second hover attempt, with the wings off, in QSTABILIZE. It lifted off evenly and held a level hover for about 6 seconds.
+At the end I cut the throttle too early and it dropped to the ground. That was my input, not the aircraft. The video ends before the drop.
+
+## Next
+Repair the damage, refit the wings and hover with them on.
